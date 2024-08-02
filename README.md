@@ -5,11 +5,11 @@ Welcome to my GitHub profile! I'm excited to share my journey and projects with 
 <br>
 👨‍💻 **About Me**
 <br>
-   🎓 I am currently pursuing a B.Tech in Artificial Intelligence and Machine Learning (AIML).
+ ▪️🎓 I am currently pursuing a B.Tech in Artificial Intelligence and Machine Learning (AIML).
 <br>
-   🌱 I'm passionate about exploring the vast world of AI, developing innovative solutions, and continuously expanding my knowledge in this exiciting field.
+ ▪️🌱 I'm passionate about exploring the vast world of AI, developing innovative solutions, and continuously expanding my knowledge in this exiciting field.
 <br>
-   🔍 I'm constantly learning and exploring new technologies and techniques to enhance my skills.
+ ▪️🔍 I'm constantly learning and exploring new technologies and techniques to enhance my skills.
 <br>
 <br>
 🌟 **Projects and Achievements**
@@ -22,13 +22,13 @@ Welcome to my GitHub profile! I'm excited to share my journey and projects with 
 <br>
 💻 **Skills**
 <br>
-    Programming Languages: Python
+  ▪️Programming Languages: Python
 <br>
-    Technologies: Tkinter, Pygame
+  ▪️Technologies: Tkinter, Pygame
 <br>    
-    Areas of Expertise: Machine Learning, Artificial Intelligence
+  ▪️Areas of Expertise: Machine Learning, Artificial Intelligence
 <br>
-    Others:SQL
+  ▪️Others:SQL
 <br>
 <br>
 🌱 **Learning**
@@ -38,5 +38,5 @@ Welcome to my GitHub profile! I'm excited to share my journey and projects with 
 <br>
 💬 **Let's Connect!**
 <br>
-   LinkedIn:
+  LinkedIn:https://www.linkedin.com/in/neha-gahlot-8aa0ba314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
