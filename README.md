@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm excited to share my journey and projects with 
 <br>
 👨‍💻 **About Me** 
 <br>
-   🎓 I am currently pursuing a B.Tech in Artificial Intelligence and Machine Learning (AIML).
+<br>🎓 I am currently pursuing a B.Tech in Artificial Intelligence and Machine Learning (AIML).
 <br>
    🌱 I'm passionate about exploring the vast world of AI, developing innovative solutions, and continuously expanding my knowledge in this exiciting field.
 <br>
