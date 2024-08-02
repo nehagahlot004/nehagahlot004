@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm excited to share my journey and projects with 
     *Internpe Python Programming Internship* (June 24, 2024 - July 21, 2024)
 <br>
       Completed several projects including a digital clock, Tic Tac Toe game, Snake game, and Connect Four game using Python
-<br>
       and the tkinter or pygame modules.
 <br>
 <br>
